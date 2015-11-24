@@ -1,4 +1,4 @@
-FROM elasticsearch
+FROM elasticsearch:1.6
 
 MAINTAINER Mikhail Shauneu <m.shauneu@gmail.com>
 
