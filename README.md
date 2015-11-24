@@ -1,6 +1,6 @@
 # elasticsearch-marvel
 
-Docker file for ElasticSearch with Marvel installed
+ElasticSearch with Marvel installed
 
 Following tags currently supported:
  - `latest` for ElasticSearch `latest`
