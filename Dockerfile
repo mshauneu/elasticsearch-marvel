@@ -2,4 +2,5 @@ FROM elasticsearch
 
 MAINTAINER Mikhail Shauneu <m.shauneu@gmail.com>
 
-RUN plugin -i elasticsearch/marvel/latest
+RUN plugin install license
+RUN plugin install marvel-agent
